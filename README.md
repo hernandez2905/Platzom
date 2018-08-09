@@ -24,8 +24,8 @@ npm install platzom
 import platzom from 'platzom'
 
 platzom("Programar")	//Program
-platzom("Zorro")		//Zorrope
-platzom("Zarpar")		//Zarppe
+platzom("Zorro")	//Zorrope
+platzom("Zarpar")	//Zarppe
 platzom("abecedario")	//abece-dario
 platzom("sometemos")	//SoMeTeMoS
 ```
