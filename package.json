@@ -1,5 +1,5 @@
 {
-  "name": "Platzom - KH",
+  "name": "@hernandez_2905/platzom-KH",
   "version": "0.1.0",
   "description": "Traductor de idioma platzom",
   "main": "dist/src/platzom.js",
